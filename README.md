@@ -1,5 +1,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%40galtomer-239a3b.svg)](https://github.com/galtomer)
-[![Twitter](https://img.shields.io/badge/Twitter-%40galtomer-58a1f2.svg)](https://twitter.com/tomergalz)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/tomergal/)
 
 <p align="center">Hi, I’m <a href="https://github.com/galtomer">@galtomer</a> 👋. I'm a Senior SDE at <a href="https://github.com">@GitHub</a> :octocat:
